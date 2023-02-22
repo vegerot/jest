@@ -2,6 +2,8 @@
 
 ### Features
 
+- `[jest-changed-files]` Support Sapling ([#13941](https://github.com/facebook/jest/pull/13941))
+
 ### Fixes
 
 ### Chore & Maintenance
